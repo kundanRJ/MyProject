@@ -1,2 +1,2 @@
 # MyProject
-Author - Kundan Singh
+Author -<br> Kundan Singh
