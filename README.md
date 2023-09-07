@@ -1,2 +1,2 @@
 # MyProject
-This project about front end 
+Author - Kundan Singh
